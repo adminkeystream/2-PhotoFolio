@@ -1,11 +1,11 @@
 (function() {
     const DATA = {
         brand: "Atelier Ginkgo Core",
-        owner: "Ali Demir",
-        email: "info@atelierginkgo.store",
-        phone: "+90 559 648 05 27",
-        phoneClean: "+905596480527",
-        address: "Antalya, Konyaalti, Istiklal Cd. No: 145",
+        owner: "Suresh Patel",
+        email: "art@atelierginkgo.store",
+        phone: "+91 89334 75692",
+        phoneClean: "+918933475692",
+        address: "Delhi, Karol Bagh, Main Road No: 185",
         copyright: "(c) 2026 Atelier Ginkgo Core. All Rights Reserved."
     };
 
