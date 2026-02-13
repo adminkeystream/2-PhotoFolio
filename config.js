@@ -1,12 +1,12 @@
 (function() {
     const DATA = {
-        brand: "Brand Name",
-        owner: "Owner Name",
-        email: "info@example.com",
-        phone: "+1 234 567 890",
-        phoneClean: "+1234567890",
-        address: "Address",
-        copyright: "(c) 2026 Brand Name. All Rights Reserved."
+        brand: "Atelier Ginkgo Core",
+        owner: "Ali Demir",
+        email: "info@atelierginkgo.store",
+        phone: "+90 559 648 05 27",
+        phoneClean: "+905596480527",
+        address: "Antalya, Konyaalti, Istiklal Cd. No: 145",
+        copyright: "(c) 2026 Atelier Ginkgo Core. All Rights Reserved."
     };
 
     function apply() {
