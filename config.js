@@ -2,7 +2,7 @@
     const DATA = {
         brand: "Atelier Ginkgo Core",
         owner: "Ali Demir",
-        email: "info@atelierginkgo.store",
+        email: "shop@atelierginkgo.store",
         phone: "+90 559 648 05 27",
         phoneClean: "+905596480527",
         address: "Antalya, Konyaalti, Istiklal Cd. No: 145",
