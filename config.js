@@ -1,12 +1,12 @@
 (function() {
     const DATA = {
-        brand: "Atelier Ginkgo Shop",
+        brand: "Atelier Ginkgo Studio",
         owner: "Hanz Shtiben",
         email: "team@atelierginkgo.store",
         phone: "+49 4771 4040759",
         phoneClean: "+4947714040759",
         address: "Lower Saxony, Geestland, Hymendorfer Chaussee 151",
-        copyright: "(c) 2026 Atelier Ginkgo Shop. All Rights Reserved."
+        copyright: "(c) 2026 Atelier Ginkgo Studio. All Rights Reserved."
     };
 
     function apply() {
