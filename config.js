@@ -3,8 +3,8 @@
         brand: "Atelier Ginkgo Studio",
         owner: "Stéphanie Moreau",
         email: "team@atelierginkgo.store",
-        phone: "+33 70 06 76 92",
-        phoneClean: "+3370067692",
+        phone: "+33 6 03 97 49 42",
+        phoneClean: "+33603974942",
         address: "Provence-Alpes-Cote d\\\'Azur, Marseille, Boulevard Des Salyens 18",
         copyright: "(c) 2026 Atelier Ginkgo Studio. All Rights Reserved."
     };
