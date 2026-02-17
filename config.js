@@ -1,12 +1,12 @@
 (function() {
     const DATA = {
-        brand: "Atelier Ginkgo Core",
-        owner: "Ali Demir",
-        email: "shop@atelierginkgo.store",
-        phone: "+90 559 648 05 27",
-        phoneClean: "+905596480527",
-        address: "Antalya, Konyaalti, Istiklal Cd. No: 145",
-        copyright: "(c) 2026 Atelier Ginkgo Core. All Rights Reserved."
+        brand: "Atelier Ginkgo Shop",
+        owner: "Hanz Shtiben",
+        email: "team@atelierginkgo.store",
+        phone: "+49 4771 4040759",
+        phoneClean: "+4947714040759",
+        address: "Lower Saxony, Geestland, Hymendorfer Chaussee 151",
+        copyright: "(c) 2026 Atelier Ginkgo Shop. All Rights Reserved."
     };
 
     function apply() {
