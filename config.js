@@ -1,11 +1,11 @@
 (function() {
     const DATA = {
         brand: "Atelier Ginkgo Studio",
-        owner: "Hanz Shtiben",
+        owner: "Stéphanie Moreau",
         email: "team@atelierginkgo.store",
-        phone: "+49 4771 4040759",
-        phoneClean: "+4947714040759",
-        address: "Lower Saxony, Geestland, Hymendorfer Chaussee 151",
+        phone: "+33 70 06 76 92",
+        phoneClean: "+3370067692",
+        address: "Provence-Alpes-Cote d\\\'Azur, Marseille, Boulevard Des Salyens 18",
         copyright: "(c) 2026 Atelier Ginkgo Studio. All Rights Reserved."
     };
 
